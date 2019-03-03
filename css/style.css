@@ -1,12 +1,8 @@
-.profile-pic{
-max-width: 100%; 
-}
-
 h4{color:orange;}
 
 h3{color:#94b4e8;}
 
-.pink{color: pink;}
+.orange{color: orange;}
 
 .giphy{
   max-width:80%;
@@ -37,9 +33,31 @@ body{background-color:#def5fc;}
 
   .margin{margin-top:20px;}
 
+  .split{margin-top:20px; background-color: transparent;}
+
   body {background-image: url("../img/background.JPG"); background-size:cover;}
 
   .jumbotron{opacity:0.7;}
 
 
-  .intro{font-family: Arial;}
+  .intro{font-family: 'Dancing Script', cursive;}
+
+  .li1{color:pink;}
+
+  .col-md-4{opacity:0.85;}
+
+  .col-md-8{opacity:0.85;}
+
+  .bck{max-width: 90%; max-height: 90%;}
+
+  .bulb{max-width: 90%; max-height: 90%; margin-top:20px;} 
+
+  .flower{max-width: 90%; max-height: 90%;}
+
+  .sea{max-width: 90%; max-height: 90%; margin-top:20px;} 
+
+  .czech{max-width: 90%; max-height: 90%;}
+
+  .ani{max-width: 90%; max-height: 90%; margin-top:20px;} 
+
+  .profile{max-width:60%; max-height:60%;}
